@@ -19,7 +19,7 @@ export default function App() {
       top:object.bounds.origin.y,
       borderWidth: 4,
       borderColor: "red",
-      borderRadius: 4
+      borderRadius: "4px"
     }}></View>
   );
 
